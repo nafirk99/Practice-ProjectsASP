@@ -1,0 +1,50 @@
+﻿@using StudentPortal.web.Models.Entities
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Student>;
+
+<h1>Students List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Subscribed</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.Id</th>
+                <th>@item.Name</th>
+                <th>@item.Email</th>
+                @if(item.Subscribed == true)
+                    {
+                    <th>Subscribed</th>
+                }
+                else
+                {
+                    <th>Not Subscribed</th>
+                }
+
+                <th>
+                    <a class="btn btn-primary" asp-controller="Students" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                   
+                </th>
+                <th>
+                    <form asp-action="Delete" method="post" asp-route-id="@item.Id">
+                        <button class="btn btn-danger">Delete</button>
+                    </form>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>
