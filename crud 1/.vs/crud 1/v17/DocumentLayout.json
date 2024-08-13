@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CRUD Operation Practice\\crud 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|d:\\crud operation practice\\crud 1\\crud 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|solutionrelative:crud 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|d:\\crud operation practice\\crud 1\\crud 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|solutionrelative:crud 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|d:\\crud operation practice\\crud 1\\crud 1\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|solutionrelative:crud 1\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|d:\\crud operation practice\\crud 1\\crud 1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|solutionrelative:crud 1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|d:\\crud operation practice\\crud 1\\crud 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|solutionrelative:crud 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|d:\\crud operation practice\\crud 1\\crud 1\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|solutionrelative:crud 1\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|d:\\crud operation practice\\crud 1\\crud 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|solutionrelative:crud 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|d:\\crud operation practice\\crud 1\\crud 1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|solutionrelative:crud 1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|d:\\crud operation practice\\crud 1\\crud 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|solutionrelative:crud 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|d:\\crud operation practice\\crud 1\\crud 1\\migrations\\20240807044427_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0369CF-A1A2-4F98-906C-4FC0A7619D96}|crud 1\\crud 1.csproj|solutionrelative:crud 1\\migrations\\20240807044427_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "crud 1\\Views\\Home\\Update.cshtml",
+              "ToolTip": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "crud 1\\Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T05:35:02.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "crud 1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "crud 1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T05:18:41.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "crud 1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "crud 1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T05:06:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "crud 1\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "crud 1\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T05:02:06.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "crud 1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "crud 1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:51:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240807044427_Migration1.cs",
+              "DocumentMoniker": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Migrations\\20240807044427_Migration1.cs",
+              "RelativeDocumentMoniker": "crud 1\\Migrations\\20240807044427_Migration1.cs",
+              "ToolTip": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Migrations\\20240807044427_Migration1.cs",
+              "RelativeToolTip": "crud 1\\Migrations\\20240807044427_Migration1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:44:27.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "crud 1\\SchoolContext.cs",
+              "ToolTip": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\SchoolContext.cs",
+              "RelativeToolTip": "crud 1\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:06:37.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "crud 1\\Models\\Teacher.cs",
+              "ToolTip": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Models\\Teacher.cs",
+              "RelativeToolTip": "crud 1\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:01:25.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\appsettings.json",
+              "RelativeDocumentMoniker": "crud 1\\appsettings.json",
+              "ToolTip": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\appsettings.json",
+              "RelativeToolTip": "crud 1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T06:52:22.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Program.cs",
+              "RelativeDocumentMoniker": "crud 1\\Program.cs",
+              "ToolTip": "D:\\CRUD Operation Practice\\crud 1\\crud 1\\Program.cs",
+              "RelativeToolTip": "crud 1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:25:50.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
