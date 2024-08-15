@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\StudentPortal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81A99B65-4ABF-4912-8C37-29F7F05CCBB3}|StudentPortal.web\\StudentPortal.web.csproj|e:\\zgit backup repositories\\practice-projectsasp\\studentportal\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A99B65-4ABF-4912-8C37-29F7F05CCBB3}|StudentPortal.web\\StudentPortal.web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81A99B65-4ABF-4912-8C37-29F7F05CCBB3}|StudentPortal.web\\StudentPortal.web.csproj|e:\\zgit backup repositories\\practice-projectsasp\\studentportal\\studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{81A99B65-4ABF-4912-8C37-29F7F05CCBB3}|StudentPortal.web\\StudentPortal.web.csproj|solutionrelative:studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{81A99B65-4ABF-4912-8C37-29F7F05CCBB3}|StudentPortal.web\\StudentPortal.web.csproj|e:\\zgit backup repositories\\practice-projectsasp\\studentportal\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81A99B65-4ABF-4912-8C37-29F7F05CCBB3}|StudentPortal.web\\StudentPortal.web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A99B65-4ABF-4912-8C37-29F7F05CCBB3}|StudentPortal.web\\StudentPortal.web.csproj|e:\\zgit backup repositories\\practice-projectsasp\\studentportal\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A99B65-4ABF-4912-8C37-29F7F05CCBB3}|StudentPortal.web\\StudentPortal.web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81A99B65-4ABF-4912-8C37-29F7F05CCBB3}|StudentPortal.web\\StudentPortal.web.csproj|e:\\zgit backup repositories\\practice-projectsasp\\studentportal\\studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\StudentPortal\\StudentPortal.web\\Views\\Students\\Edit.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.web\\Views\\Students\\Edit.cshtml",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "StudentPortal.web\\Views\\Students\\Edit.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T05:03:15.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T05:03:15.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\StudentPortal\\StudentPortal.web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.web\\Views\\Shared\\_Layout.cshtml",
@@ -87,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "List.cshtml",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\StudentPortal\\StudentPortal.web\\Views\\Students\\List.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.web\\Views\\Students\\List.cshtml",
@@ -100,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AddStudentViewModel.cs",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\StudentPortal\\StudentPortal.web\\Models\\AddStudentViewModel.cs",
               "RelativeDocumentMoniker": "StudentPortal.web\\Models\\AddStudentViewModel.cs",
@@ -112,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Add.cshtml",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\StudentPortal\\StudentPortal.web\\Views\\Students\\Add.cshtml",
               "RelativeDocumentMoniker": "StudentPortal.web\\Views\\Students\\Add.cshtml",
@@ -120,12 +119,11 @@
               "RelativeToolTip": "StudentPortal.web\\Views\\Students\\Add.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T10:37:49.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T10:37:49.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\StudentPortal\\StudentPortal.web\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "StudentPortal.web\\Controllers\\StudentsController.cs",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "StudentPortal.web\\Controllers\\StudentsController.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAcwEoAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T10:36:59.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T10:36:59.384Z"
             },
             {
               "$type": "Document",
@@ -150,15 +147,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\StudentPortal\\StudentPortal.web\\Models\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentPortal.web\\Models\\Entities\\Student.cs",
               "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\StudentPortal\\StudentPortal.web\\Models\\Entities\\Student.cs",
               "RelativeToolTip": "StudentPortal.web\\Models\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T10:21:51.131Z"
+              "WhenOpened": "2024-08-12T10:21:51.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
