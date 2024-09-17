@@ -1,0 +1,412 @@
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\appsettings.Development.json
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\appsettings.json
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.staticwebassets.runtime.json
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.exe
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.deps.json
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.runtimeconfig.json
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.pdb
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Azure.Core.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Azure.Identity.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Humanizer.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.CodeDom.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Memory.Data.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Text.Json.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.csproj.AssemblyReference.cache
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.AssemblyInfoInputs.cache
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.AssemblyInfo.cs
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.csproj.CoreCompileInputs.cache
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.MvcApplicationPartsAssemblyInfo.cache
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.RazorAssemblyInfo.cache
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.RazorAssemblyInfo.cs
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets.build.json
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets.development.json
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.BestStore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.build.BestStore.props
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BestStore.props
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BestStore.props
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets.pack.json
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\scopedcss\bundle\BestStore.styles.css
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\scopedcss\projectbundle\BestStore.bundle.scp.css
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.csproj.Up2Date
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\refint\BestStore.dll
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.pdb
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.genruntimeconfig.cache
+E:\1\Backup for Best Store before we add dynamic Category\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\ref\BestStore.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\appsettings.json
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.staticwebassets.runtime.json
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.exe
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.deps.json
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.runtimeconfig.json
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\BestStore.pdb
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Humanizer.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.csproj.AssemblyReference.cache
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.AssemblyInfoInputs.cache
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.AssemblyInfo.cs
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.csproj.CoreCompileInputs.cache
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.RazorAssemblyInfo.cache
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.RazorAssemblyInfo.cs
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.BestStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.build.BestStore.props
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BestStore.props
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BestStore.props
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\scopedcss\bundle\BestStore.styles.css
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\scopedcss\projectbundle\BestStore.bundle.scp.css
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.csproj.Up2Date
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\refint\BestStore.dll
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.pdb
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\BestStore.genruntimeconfig.cache
+C:\Users\plicl\Desktop\Project Work Devskill\Attempt 2 Best Store Category\BestStore\BestStore\obj\Debug\net8.0\ref\BestStore.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\appsettings.Development.json
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\appsettings.json
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\BestStore.staticwebassets.runtime.json
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\BestStore.exe
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\BestStore.deps.json
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\BestStore.runtimeconfig.json
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\BestStore.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\BestStore.pdb
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Azure.Core.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Azure.Identity.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Humanizer.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.CodeDom.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Text.Json.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.csproj.AssemblyReference.cache
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.AssemblyInfoInputs.cache
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.AssemblyInfo.cs
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.csproj.CoreCompileInputs.cache
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.MvcApplicationPartsAssemblyInfo.cache
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.RazorAssemblyInfo.cache
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.RazorAssemblyInfo.cs
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.sourcelink.json
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\staticwebassets.build.json
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\staticwebassets.development.json
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.BestStore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.build.BestStore.props
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BestStore.props
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BestStore.props
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\scopedcss\bundle\BestStore.styles.css
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\scopedcss\projectbundle\BestStore.bundle.scp.css
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.csproj.Up2Date
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\refint\BestStore.dll
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.pdb
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\BestStore.genruntimeconfig.cache
+E:\ZGit Backup Repositories\Practice-ProjectsASP\Attempt 2 Best Store Category Working\BestStore\BestStore\obj\Debug\net8.0\ref\BestStore.dll

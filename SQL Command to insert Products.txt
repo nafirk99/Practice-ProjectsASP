@@ -1,0 +1,11 @@
+INSERT INTO Products (Name, Brand, Category, Price, Description, ImageFileName, CreatedAt)
+VALUES ('Asus Laptop', 'Asus', 'Laptops', 1200.00, 'High-performance Asus laptop', 'asus.jpg', GETDATE());
+
+INSERT INTO Products (Name, Brand, Category, Price, Description, ImageFileName, CreatedAt)
+VALUES ('MacBook Pro', 'Apple', 'Laptops', 2500.00, 'Latest Apple MacBook Pro', 'macbook.jpg', GETDATE());
+
+INSERT INTO Products (Name, Brand, Category, Price, Description, ImageFileName, CreatedAt)
+VALUES ('Razer Blade', 'Razer', 'Laptops', 1800.00, 'Gaming laptop by Razer', 'razer.jpg', GETDATE());
+
+INSERT INTO Products (Name, Brand, Category, Price, Description, ImageFileName, CreatedAt)
+VALUES ('Generic Laptop', 'Unknown', 'Laptops', 800.00, 'Affordable laptop for general use', 'laptop.jpg', GETDATE());
