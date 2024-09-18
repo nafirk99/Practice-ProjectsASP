@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|e:\\zgit backup repositories\\practice-projectsasp\\attempt 2 best store category working\\beststore\\beststore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B50B186C-9923-4796-9E7B-2C095D4F4214}|BestStore\\BestStore.csproj|solutionrelative:beststore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BestStore\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "BestStore\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T10:11:23.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BestStore\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BestStore\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAswJgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:23:39.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "BestStore\\Views\\Products\\Create.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "BestStore\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T05:45:06.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BestStore\\Models\\Product.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Models\\Product.cs",
+              "RelativeToolTip": "BestStore\\Models\\Product.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:56:13.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BestStore\\Models\\Category.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Models\\Category.cs",
+              "RelativeToolTip": "BestStore\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:56:10.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BestStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BestStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T10:42:22.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BestStore\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BestStore\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwF8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:21:34.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Models\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "BestStore\\Models\\ProductDTO.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Models\\ProductDTO.cs",
+              "RelativeToolTip": "BestStore\\Models\\ProductDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:20:45.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Models\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "BestStore\\Models\\CategoryDTO.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Models\\CategoryDTO.cs",
+              "RelativeToolTip": "BestStore\\Models\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:20:21.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Program.cs",
+              "RelativeDocumentMoniker": "BestStore\\Program.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\Program.cs",
+              "RelativeToolTip": "BestStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:15:16.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BestStore\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BestStore\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:14:18.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\appsettings.json",
+              "RelativeDocumentMoniker": "BestStore\\appsettings.json",
+              "ToolTip": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\appsettings.json",
+              "RelativeToolTip": "BestStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T10:06:22.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
