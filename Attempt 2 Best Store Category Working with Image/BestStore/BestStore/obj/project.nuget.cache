@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Euj4ixSawA4=",
+  "dgSpecHash": "qbbQmOmSThE=",
   "success": true,
-  "projectFilePath": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\BestStore.csproj",
+  "projectFilePath": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working with Image\\BestStore\\BestStore\\BestStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plicl\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\plicl\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

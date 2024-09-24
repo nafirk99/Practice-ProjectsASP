@@ -4110,11 +4110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\BestStore.csproj",
+      "projectUniqueName": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working with Image\\BestStore\\BestStore\\BestStore.csproj",
       "projectName": "BestStore",
-      "projectPath": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\BestStore.csproj",
+      "projectPath": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working with Image\\BestStore\\BestStore\\BestStore.csproj",
       "packagesPath": "C:\\Users\\plicl\\.nuget\\packages\\",
-      "outputPath": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working\\BestStore\\BestStore\\obj\\",
+      "outputPath": "E:\\ZGit Backup Repositories\\Practice-ProjectsASP\\Attempt 2 Best Store Category Working with Image\\BestStore\\BestStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plicl\\AppData\\Roaming\\NuGet\\NuGet.Config",
